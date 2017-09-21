@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.fuxing.learn.test05.HomeActivity">
+    <Button
+        android:id="@+id/s1"
+        android:onClick="show"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="001"/>
+    <Button
+        android:id="@+id/s2"
+        android:onClick="show"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="002"/>
+    <Button
+        android:id="@+id/s3"
+        android:onClick="show"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="003"/>
+    <Button
+        android:id="@+id/s4"
+        android:onClick="show"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="004"/>
+    <Button
+        android:id="@+id/s5"
+        android:onClick="show"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="005"/>
+
+</LinearLayout>

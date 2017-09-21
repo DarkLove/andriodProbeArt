@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:fx="http://schemas.android.com/apk/res-auto"
+    tools:context="com.fuxing.learn.test05.TestActivity003">
+    <com.fuxing.learn.test05.view.Custom004
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        fx:firstColor="#D65555"
+        fx:secondColor="#3FA0E4"
+        fx:circleWidth="40dp"
+        fx:speed="20"/>
+</RelativeLayout>

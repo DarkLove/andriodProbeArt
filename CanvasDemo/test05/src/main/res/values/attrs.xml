@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="custom">
+        <attr name="titleText" format="string"/>
+        <attr name="titleTextSize" format="dimension"/>
+        <attr name="titleTextColor" format="color"/>
+        <attr name="image" format="reference"/>
+        <attr name="imageScaleType">
+            <enum name="fillXY" value="0"/>
+            <enum name="center" value="1"/>
+        </attr>
+
+        <attr name="firstColor" format="color"/>
+        <attr name="secondColor" format="color"/>
+        <attr name="circleWidth" format="dimension"/>
+        <attr name="speed" format="integer"/>
+    </declare-styleable>
+</resources>

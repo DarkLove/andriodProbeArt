@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CanvasDemo.iml" filepath="$PROJECT_DIR$/CanvasDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test001/test001.iml" filepath="$PROJECT_DIR$/test001/test001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test002/test002.iml" filepath="$PROJECT_DIR$/test002/test002.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test01/test01.iml" filepath="$PROJECT_DIR$/test01/test01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test02/test02.iml" filepath="$PROJECT_DIR$/test02/test02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test03/test03.iml" filepath="$PROJECT_DIR$/test03/test03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test04/test04.iml" filepath="$PROJECT_DIR$/test04/test04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test05/test05.iml" filepath="$PROJECT_DIR$/test05/test05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testweatherformiui8/testweatherformiui8.iml" filepath="$PROJECT_DIR$/testweatherformiui8/testweatherformiui8.iml" />
+    </modules>
+  </component>
+</project>

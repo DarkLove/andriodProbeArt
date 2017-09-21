@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.fuxing.learn.test05.TestActivity004">
+    <com.fuxing.learn.test05.view.Custom005
+        android:id="@+id/custom005"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"/>
+    <TextView
+        android:id="@+id/tv"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:gravity="center"
+        android:textSize="30sp"
+        android:text="贱人的贱值为：0"/>
+</RelativeLayout>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="MIUI">
+        <!--折线的单位长度-->
+        <attr name="line_interval" format="dimension"/>
+
+        <!--折线的最低高度-->
+        <attr name="min_point_height" format="dimension"/>
+        
+        <!--背景色-->
+        <attr name="background_color" format="color"/>
+    </declare-styleable>
+</resources>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:fx="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    tools:context="com.fuxing.learn.test05.TestActivity001">
+
+    <com.fuxing.learn.test05.view.Custom002
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:padding="10dp"
+        fx:image="@mipmap/ic_launcher"
+        fx:imageScaleType="center"
+        fx:titleText="hello zzzzzzzzzzzzzzzzzz"
+        fx:titleTextColor="#ff0000"
+        fx:titleTextSize="30sp"/>
+
+    <com.fuxing.learn.test05.view.Custom002
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:padding="10dp"
+        fx:image="@mipmap/ic_launcher"
+        fx:imageScaleType="fillXY"
+        fx:titleText="hello zzzzzzzzzzzzzzzzzz"
+        fx:titleTextColor="#ff0000"
+        fx:titleTextSize="30sp"/>
+
+</LinearLayout>
