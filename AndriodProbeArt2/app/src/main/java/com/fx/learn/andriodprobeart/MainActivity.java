@@ -76,6 +76,6 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void show(View view){
-        startActivity(new Intent(this,SecondActivity.class));
+        startActivity(new Intent(getApplicationContext(),SecondActivity.class));
     }
 }
