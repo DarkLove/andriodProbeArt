@@ -5,5 +5,8 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context="com.fx.learn.andriodprobeart.SecondActivity">
-
+    <EditText
+        android:id="@+id/et"
+        android:layout_width="368dp"
+        android:layout_height="wrap_content"  />
 </android.support.constraint.ConstraintLayout>
