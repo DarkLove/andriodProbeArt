@@ -16,10 +16,15 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <!--标准模式-->
         <activity android:name=".one.OneActivity2A" />
+        <!--栈顶复用模式-->
         <activity
             android:name=".two.TwoActivity2A"
             android:launchMode="singleTop" />
+        <!--栈内复用模式-->
+        <activity android:name=".three.ThreeActivity2A"
+            android:launchMode="singleTask"></activity>
     </application>
 
 </manifest>

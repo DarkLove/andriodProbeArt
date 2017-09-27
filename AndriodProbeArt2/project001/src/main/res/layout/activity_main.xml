@@ -19,4 +19,12 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="栈顶复用模式singleTop"/>
+
+    <Button
+        android:onClick="show"
+        android:id="@+id/singleTask"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="栈内复用模式singleTask"/>
+
 </LinearLayout>

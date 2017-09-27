@@ -6,6 +6,7 @@ import android.os.Bundle;
 import android.view.View;
 
 import com.fx.learn.project001.one.OneActivity2A;
+import com.fx.learn.project001.three.ThreeActivity2A;
 import com.fx.learn.project001.two.TwoActivity2A;
 
 public class MainActivity extends AppCompatActivity {
@@ -24,6 +25,9 @@ public class MainActivity extends AppCompatActivity {
                 break;
             case R.id.singleTop:
                 go(TwoActivity2A.class);
+                break;
+            case R.id.singleTask:
+                go(ThreeActivity2A.class);
                 break;
         }
     }
