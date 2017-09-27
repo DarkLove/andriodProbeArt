@@ -20,8 +20,6 @@
         <activity
             android:name=".two.TwoActivity2A"
             android:launchMode="singleTop" />
-        <activity android:name=".two.TwoActivity2B"
-            android:launchMode="singleTop"></activity>
     </application>
 
 </manifest>
